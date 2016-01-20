@@ -5,7 +5,7 @@ This image does not require any preconfiguration to run.
 
 To run this image:
 
-    /usr/bin/docker run hachque/systemd-none
+    /usr/bin/docker run tinkerer/opensuse-nonsystemd
     
 This image is generally used as a base image for other Docker images.  You can build on this image by creating your own Dockerfiles.
 
